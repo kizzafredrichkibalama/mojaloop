@@ -29,7 +29,7 @@ Building and Running Mojaloop from source requires the following tools:
 
 ### <a name='brewMacOS'></a>1. `brew` (MacOS)
 
-#### macOS
+#### MacOS
 Brew is a package manager for macOS. The simplest installation method is:
 
 ```bash
@@ -50,7 +50,7 @@ Most of the tools we install with `brew` are available on existing linux package
 We use docker to build reliable images of the Mojaloop components, as well as install and run other developer tools such as MySQL and Kafka without requiring the overhead of installing a bunch of stuff.
 
 #### macOS
-Follow the Docker for Mac installation guide [here](https://docs.docker.com/docker-for-mac/)
+Follow the Docker for Mac installation guide [here](https://docs.docker.com/docker-for-mac/).
 
 
 #### Linux
@@ -347,7 +347,7 @@ Follow the Onboarding guides for each sub project here:
 
 ## <a name='OtherUsefulLinks'></a>Other Useful Links
 - [Mojaloop Specification Documents](https://github.com/mojaloop/mojaloop-specification)
-- [Mojaloop Project Repo](https://github.com/mojaloop/project) - for tracking issues across all sub-projects
+- [Mojaloop Project Repo](https://github.com/mojaloop/project) - for tracking issues across all sub-projects.
 
 
 
